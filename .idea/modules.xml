@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< Updated upstream
       <module fileurl="file://$PROJECT_DIR$/calculator.iml" filepath="$PROJECT_DIR$/calculator.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/../calculator.iml" filepath="$PROJECT_DIR$/../calculator.iml" />
+>>>>>>> Stashed changes
     </modules>
   </component>
 </project>
