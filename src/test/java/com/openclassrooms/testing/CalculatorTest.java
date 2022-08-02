@@ -53,6 +53,7 @@ class CalculatorTest {
         // Assert
         assertEquals(5, somme);
     }
+    
 
     @Test
     void testMultiplyTwoPositiveNumber() {
