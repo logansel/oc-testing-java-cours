@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df705ac4-e881-45ad-ba04-66d5c2f98f8b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ea30eae9cecebcf6282d806aa50ccd9a43e930c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8139c17cc23e4f28ca307b51d88b90e3ff181fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee80792370a02f9f5e7438e6e09ffa5cc8752617" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/openclassrooms/testing/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openclassrooms/testing/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/openclassrooms/testing/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/openclassrooms/testing/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,13 +38,29 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="2Cw0hkBpAD8JBIQrVfpF38w7j0U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.openclassrooms.testing" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.testAddTwoPositiveNumbers">
+  <component name="RunManager" selected="JUnit.CalculatorTest.withTest1_return_123_456_789">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.testing.Calculator" />
+      <module name="calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calculator" />
       <extension name="coverage">
@@ -47,6 +71,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.openclassrooms.testing" />
       <option name="MAIN_CLASS_NAME" value="com.openclassrooms.testing.CalculatorTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,15 +109,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculatorTest.withTest1_return_123_456_789" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openclassrooms.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openclassrooms.testing" />
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.testing.CalculatorTest" />
+      <option name="METHOD_NAME" value="withTest1_return_123_456_789" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JUnit.CalculatorTest" />
+      <item itemvalue="JUnit.CalculatorTest.multiply_shouldReturnTheProduct_ofTwoIntegers" />
+      <item itemvalue="JUnit.CalculatorTest.testAddTwoPositiveNumbers" />
+      <item itemvalue="JUnit.CalculatorTest.withTest1_return_123_456_789" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest.withTest1_return_123_456_789" />
+        <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.testAddTwoPositiveNumbers" />
         <item itemvalue="JUnit.CalculatorTest.multiply_shouldReturnTheProduct_ofTwoIntegers" />
-        <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df705ac4-e881-45ad-ba04-66d5c2f98f8b" name="Changes" comment="" />
+      <created>1659698468141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659698468141</updated>
+    </task>
     <servers />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">

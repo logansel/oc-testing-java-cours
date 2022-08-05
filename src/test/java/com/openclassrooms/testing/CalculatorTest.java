@@ -152,4 +152,12 @@ public class CalculatorTest {
         assertThat(actualDigits).containsExactly(0);
     }
 
+    @Test
+    public void withTest1_return_123_456_789(){
+        int nb = 123456789;
+        String nbafter = Calculator.test1(nb);
+
+        assertThat(nbafter).isEqualTo("123 456 789");
+    }
+
 }
