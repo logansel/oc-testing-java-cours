@@ -16,7 +16,6 @@ public enum CalculationType {
             case "/":
                 return DIVISION;
             case "*":
-                return MULTIPLICATION;
             case "x":
                 return MULTIPLICATION;
             default:
